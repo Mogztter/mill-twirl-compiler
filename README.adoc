@@ -1,0 +1,7 @@
+= Twirl compiler
+
+Call the Twirl compiler using reflection.
+
+== Usage
+
+ $ mill app
